@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/martin-galiotti-martinez-80850b275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martín galiotti martinez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/martin-galiotti-martinez-80850b275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martín galiotti martinez" height="30" width="40" /></a>
 <a href="https://instagram.com/martin_galiotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin_galiotti" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@martingaliottim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@martingaliottim1" height="30" width="40" /></a>
 </p>
