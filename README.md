@@ -9,7 +9,10 @@
 
 - 💬 Ask me about **React, Redux, Node.js,Express.js, Sequelize.js**
 
-- 📫 How to reach me **martingaliottimartinez@gmail.com**
+- 📫 How to reach me:
+- Email: **martingaliottimartinez@gmail.com**
+- Phonenumber: 2345-563285
+- Linkedin: Martin Galiotti Martinez
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
